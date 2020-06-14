@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Marvels World</string>
+    <string name="app_name">Marvel World</string>
+    <string name="title">Marvel\'s World</string>
+    <string name="main_title">Characters</string>
+    <string name="error">Ocorreu um erro. Tente novamente.</string>
+    <string name="inicio">início</string>
+    <string name="perfil">perfil</string>
+    <string name="you_can_like_title">Você pode gostar…</string>
+    <string name="descobrir">Descobrir</string>
+    <string name="favoritos">Favoritos</string>
+
 </resources>
